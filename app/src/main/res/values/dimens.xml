@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="altologoPlatzi">45dp</dimen>
+    <dimen name="toobarAlto">30dp</dimen>
+    <dimen name="cardConerRadius">4dp</dimen>
+    <dimen name="altoImageViewHome">150dp</dimen>
+    <dimen name="tamanioTitulo">20sp</dimen>
+    <dimen name="marginHomeSubtitulo">10dp</dimen>
+    <dimen name="tamanioSubtitulo">15sp</dimen>
+    <dimen name="ItemScheduleTitulo">30sp</dimen>
+    <dimen name="ItemScheduleSubtitulo">20sp</dimen>
+    <dimen name="TwitterSpeakerDetail_width">40dp</dimen>
+    <dimen name="TwitterSpeakerDetail_height">40dp</dimen>
+
+</resources>
